@@ -58,7 +58,7 @@ Empreendedores, profissionais autônomos, pequenas e médias empresas que deseja
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@codeka_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Code_Ka)
 [![Google Dev](https://img.shields.io/badge/Google%20+-%234285F4.svg?logo=google&logoColor=white)](https://g.co/kgs/Qs9w62k)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/share/1XwLwnZzaZ/?mibextid=wwXIfr)
 
 ---
 
